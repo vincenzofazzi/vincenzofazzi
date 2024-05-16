@@ -38,10 +38,8 @@
 ##
 
  <div > 
-  <a href="https://instagram.com/wellingtonagar" target="_blank"><img height="30px" width="120px" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- 	<a href="https://discord.gg/Nt2dacxV" target="_blank"><img height="30px" width="120px" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:contato@devdavez.com.br"><img height="30px" width="120px" src="https://img.shields.io/badge/-Email-%23333?style=for-the-badge&logo=email&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/wellingtonag" target="_blank"><img height="30px" width="120px" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href = "mailto:vincenzo.fazzi@cirtivao.store"><img height="30px" width="120px" src="https://img.shields.io/badge/-Email-%23333?style=for-the-badge&logo=email&logoColor=white" target="_blank"></a>
+  <a href="https://https://www.linkedin.com/in/vincenzo-fazzi-9a97b378/" target="_blank"><img height="30px" width="120px" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
     
   ##
  
@@ -51,7 +49,7 @@
 ```js
 const tom = {
   personal: {
-    fullName: "Wellington Garcia",
+    fullName: "vincenzo.fazzi",
     birthDate: "December 78 - but I'm young at heart",
     pronouns: "he" || "him",
     interests: [
